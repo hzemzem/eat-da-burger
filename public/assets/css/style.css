@@ -12,10 +12,6 @@
 	background-color: white;
  }
 
- #cute_burger {
- 	display: block;
-    margin: auto;
- }
 
  h1 {
  	text-align: center;
@@ -38,7 +34,7 @@
  }
 
  .burgerAvailable:hover {
- 	background-color: #ffcc00;
+ 	background-color: #b7ffc2;
  }
 
  .burgerEaten {
